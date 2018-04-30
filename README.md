@@ -8,7 +8,7 @@
 * Create some projects that students can build upon. 
 
 
-What will we be covering each day:\
+## What will we be covering each day:\
 [Day 1]	Intro to AWS & Cloud (CH 1), IAM(CH6) \
 [Day 2]	EC2(CH3) , AWS CLI  \
 [Day 3]	Network Design with VPC (CH4) . \
@@ -64,7 +64,7 @@ https://aws.amazon.com/faqs/
 
 
 
-## Try to read ALL these whitepapers before the exam ( About 300 Pages in total):
+## Try to read these whitepapers before the exam ( About 300 Pages in total):
  (aws.amazon.com/whitepapers) 
 #### (44 Pages +30 pages of questions and best practices ) AWS Well-Architected Framework, November 2016 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
