@@ -1,11 +1,11 @@
 # AWS Certified Developer Associate Exam Bootcamp
 
 ## Course Objective:
-Prepare students to be ready for the AWS SAA exam
-Cover all the major AWS services 
-Introduce students to the Developer tools like AWS SDK's , CLI, Cloudformation
-Implement what we learn with hands on labs.
-Create some projects that students can build upon. 
+Prepare students to be ready for the AWS SAA exam\
+Cover all the major AWS services \
+Introduce students to the Developer tools like AWS Software Development Kit's , Command Line Interface(CLI), Cloudformation\
+Implement what we learn with hands on labs.\
+Create some projects that students can build upon. \
 
 
 What will we be covering each day:\
