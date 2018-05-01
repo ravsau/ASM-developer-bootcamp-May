@@ -8,17 +8,18 @@
 * Create some projects that students can build upon. 
 
 
-## What will we be covering each day:\
+## What will we be covering each day:
 [Day 1]	Intro to AWS & Cloud (CH 1), IAM(CH6) \
-[Day 2]	EC2(CH3) , AWS CLI  \
-[Day 3]	Network Design with VPC (CH4) . \
-[Day 4]	High Availability with ELB, Auto Scaling , CloudWatch(CH 5) and DNS(CH 9)\
-[Day 5]	DynamoDB and other databases (CH 7)\
-[Day 6]	SQS, SWF , SNS(CH 8) , Cloudtrail \
-[Day 7]	Automation with Cloud Formation (IaaC) \
-[Day 8] AWS SDK boto3 ,  AWS Lambda  \
-[Day 9]	Security & Compliance (Ch 12, 13) , Other topics for the exam  \
-[Day 10] Alexa Skill development with Lambda + Final Quiz \
+[Day 2] Amazon S3
+[Day 3]	EC2(CH3) , AWS CLI  \
+[Day 4]	Network Design with VPC (CH4) . \
+[Day 5]	High Availability with ELB, Auto Scaling , CloudWatch(CH 5) and DNS(CH 9)\
+[Day 6]	DynamoDB and other databases (CH 7)\
+[Day 7]	SQS, SWF , SNS(CH 8) , Cloudtrail \
+[Day 8]	Automation with Cloud Formation (IaaC) \
+[Day 9] AWS SDK boto3 ,  AWS Lambda  \
+[Day 10]	Security & Compliance (Ch 12, 13) , Other topics for the exam  + Final Quiz
+
 
 ** there might be a few changes to the schedule \
 ** delete your access keys after EC2 demo 
