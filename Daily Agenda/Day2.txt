@@ -1,0 +1,29 @@
+Day 2 Agenda:
+
+IAM Identity federation and Active directory integration
+S3 Slides
+Create S3 Bucket and S3 walkthrough
+Versioning 
+Cross Region Replication
+Encryption
+Access Logs
+Lifecycle Policy
+Static website hosting
+
+
+Small topics:
+
+Request Rate Considerations for S3
+Consistency
+Multipart Upload
+Transfer Acceleration
+
+
+S3 Limits:
+5GB---per PUT
+0 kb to 5TB
+
+
+
+
+

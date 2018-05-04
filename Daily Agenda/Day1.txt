@@ -1,0 +1,20 @@
+Day 1 Agenda:
+
+
+Introduction
+Syllabus
+Introduction to the cloud
+Pre-assessment quiz
+IAM Lecture
+
+LABS:
+Root User
+5 Check Marks
+IAM User, generate access keys
+Groups
+Policy
+Role
+Identity federation
+
+CLI Setup
+Create User + other tasks with the CLI
