@@ -1,0 +1,4 @@
+Day 1 Homework:
+
+Amazon S3 replication and versioning
+https://www.youtube.com/watch?v=_AzblCVy5Z4
